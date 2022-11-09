@@ -1,0 +1,26 @@
+.banner{
+    background-color: pink;
+    color: blue;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px;
+    font-family: sans-serif;
+}
+#banner-img{
+    height: 100px;
+    width: 100px;
+}
+#desc-id{
+    color: brown;
+    font-size: 30px;
+}
+.desc-class{
+font-weight: bold;
+font-family: sans-serif;
+}
+.button-b{
+    color: crimson;
+    font-family: sans-serif;
+    background-color: aquamarine;
+    font-size: 16px;
+}
